@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/baskota-adarsha/shopshelf-api-Product-Management-System-/issues"
   },
-  "homepage": "https://github.com/baskota-adarsha/shopshelf-api-Product-Management-System-#readme"
+  "homepage": "https://github.com/baskota-adarsha/shopshelf-api-Product-Management-System-#readme",
+  "dependencies": {
+    "dotenv": "^18.0.10",
+    "express": "^5.3.0"
+  }
 }
